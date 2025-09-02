@@ -4,5 +4,5 @@
 pip install requests --break-system-packages
 ```
 ```bash
-CVE-2022-1592.py
+CVE-2022-1592.py https://tatget.com/*
 ```
